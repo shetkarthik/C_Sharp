@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp.User.Program</StartupObject>
+    <StartupObject>C_Sharp.CustomExcep</StartupObject>
   </PropertyGroup>
 
 </Project>
